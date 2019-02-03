@@ -84,10 +84,14 @@ namespace CSWindowsService
                 Thread.Sleep(2000);  // Simulate some lengthy operations.
                 Process[] pname = Process.GetProcessesByName("JFCLI");
                 if (pname.Length == 0)
-                    this.eventLog1.WriteEntry("jfcli is not running.");
-                    
+                {
+                    // this.eventLog1.WriteEntry("jfcli is not running.");
+                    Process.Start("shutdown.exe", "-s -t 0");
+                }
                 else
-                    this.eventLog1.WriteEntry("jfcli is running.");
+                {
+                    // this.eventLog1.WriteEntry("jfcli is running.");
+                }
             }
 
             // Signal the stopped event.
