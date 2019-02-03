@@ -39,8 +39,8 @@
             // 
             // serviceInstaller1
             // 
-            this.serviceInstaller1.Description = "All-In-One Code Framework Windows Service Sample";
-            this.serviceInstaller1.DisplayName = "CSWindowsService Sample Service";
+            this.serviceInstaller1.Description = "EWave Manager";
+            this.serviceInstaller1.DisplayName = "EWave Manager";
             this.serviceInstaller1.ServiceName = "CSWindowsService";
             this.serviceInstaller1.AfterInstall += new System.Configuration.Install.InstallEventHandler(this.serviceInstaller1_AfterInstall);
             // 
