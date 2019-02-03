@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\ewave\Debug\CSWindowsService.exe
+C:\Users\Administrator\Desktop\ewave\Debug\CSWindowsService.pdb
+C:\Users\Administrator\Desktop\ewave\CSWindowsService\obj\Debug\CSWindowsService.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\ewave\CSWindowsService\obj\Debug\CSWindowsService.SampleService.resources
+C:\Users\Administrator\Desktop\ewave\CSWindowsService\obj\Debug\CSWindowsService.ProjectInstaller.resources
+C:\Users\Administrator\Desktop\ewave\CSWindowsService\obj\Debug\CSWindowsService.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\ewave\CSWindowsService\obj\Debug\CSWindowsService.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ewave\CSWindowsService\obj\Debug\CSWindowsService.exe
+C:\Users\Administrator\Desktop\ewave\CSWindowsService\obj\Debug\CSWindowsService.pdb

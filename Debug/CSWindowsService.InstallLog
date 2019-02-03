@@ -1,0 +1,26 @@
+﻿Installing assembly 'C:\Users\Administrator\Desktop\ewave\Debug\CSWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrator\Desktop\ewave\Debug\CSWindowsService.InstallLog
+   assemblypath = C:\Users\Administrator\Desktop\ewave\Debug\CSWindowsService.exe
+Installing service CSWindowsService...
+Service CSWindowsService has been successfully installed.
+Creating EventLog source CSWindowsService in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\ewave\Debug\CSWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrator\Desktop\ewave\Debug\CSWindowsService.InstallLog
+   assemblypath = C:\Users\Administrator\Desktop\ewave\Debug\CSWindowsService.exe
+Installing assembly 'C:\Users\Administrator\Desktop\ewave\Debug\CSWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrator\Desktop\ewave\Debug\CSWindowsService.InstallLog
+   assemblypath = C:\Users\Administrator\Desktop\ewave\Debug\CSWindowsService.exe
+Installing service CSWindowsService...
+Service CSWindowsService has been successfully installed.
+Creating EventLog source CSWindowsService in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\ewave\Debug\CSWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrator\Desktop\ewave\Debug\CSWindowsService.InstallLog
+   assemblypath = C:\Users\Administrator\Desktop\ewave\Debug\CSWindowsService.exe
