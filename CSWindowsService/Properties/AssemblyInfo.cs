@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CSWindowsService")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("EWaveManager")]
+[assembly: AssemblyDescription("A manager for EWave Gaming")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft Corporation")]
-[assembly: AssemblyProduct("CSWindowsService")]
-[assembly: AssemblyCopyright("Copyright © Microsoft 2010")]
+[assembly: AssemblyCompany("EnumC.com")]
+[assembly: AssemblyProduct("EWaveManager")]
+[assembly: AssemblyCopyright("Copyright © Eric Qian 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

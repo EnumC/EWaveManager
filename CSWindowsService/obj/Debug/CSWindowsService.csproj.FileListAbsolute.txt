@@ -7,3 +7,12 @@ C:\Users\Administrator\Desktop\ewave\CSWindowsService\obj\Debug\CSWindowsService
 C:\Users\Administrator\Desktop\ewave\CSWindowsService\obj\Debug\CSWindowsService.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Desktop\ewave\CSWindowsService\obj\Debug\CSWindowsService.exe
 C:\Users\Administrator\Desktop\ewave\CSWindowsService\obj\Debug\CSWindowsService.pdb
+C:\Users\eric\Source\Repos\EWaveManager\Debug\CSWindowsService.exe
+C:\Users\eric\Source\Repos\EWaveManager\Debug\CSWindowsService.pdb
+C:\Users\eric\Source\Repos\EWaveManager\CSWindowsService\obj\Debug\CSWindowsService.csprojAssemblyReference.cache
+C:\Users\eric\Source\Repos\EWaveManager\CSWindowsService\obj\Debug\CSWindowsService.SampleService.resources
+C:\Users\eric\Source\Repos\EWaveManager\CSWindowsService\obj\Debug\CSWindowsService.ProjectInstaller.resources
+C:\Users\eric\Source\Repos\EWaveManager\CSWindowsService\obj\Debug\CSWindowsService.csproj.GenerateResource.cache
+C:\Users\eric\Source\Repos\EWaveManager\CSWindowsService\obj\Debug\CSWindowsService.csproj.CoreCompileInputs.cache
+C:\Users\eric\Source\Repos\EWaveManager\CSWindowsService\obj\Debug\CSWindowsService.exe
+C:\Users\eric\Source\Repos\EWaveManager\CSWindowsService\obj\Debug\CSWindowsService.pdb

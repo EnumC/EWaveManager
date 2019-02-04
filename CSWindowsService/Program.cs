@@ -1,13 +1,11 @@
 ﻿/****************************** Module Header ******************************\
 * Module Name:  Program.cs
-* Project:      CSWindowsService
-* Copyright (c) Microsoft Corporation.
+* Project:      EWaveManager
+* Copyright (c) Eric Qian.
 * 
 * The file defines the entry point of the application.
 * 
-* This source is subject to the Microsoft Public License.
-* See http://www.microsoft.com/en-us/openness/resources/licenses.aspx#MPL.
-* All other rights reserved.
+* This source is all rights reserved.
 * 
 * THIS CODE AND INFORMATION IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, 
 * EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED 

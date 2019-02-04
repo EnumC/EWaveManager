@@ -1,16 +1,11 @@
 ﻿/****************************** Module Header ******************************\
 * Module Name:  SampleService.cs
-* Project:      CSWindowsService
-* Copyright (c) Microsoft Corporation.
+* Project:      EWaveManager
+* Copyright (c) Eric Qian.
 * 
-* Provides a sample service class that derives from the service base class - 
-* System.ServiceProcess.ServiceBase. The sample service logs the service 
-* start and stop information to the Application event log, and shows how to 
-* run the main function of the service in a thread pool worker thread. 
 * 
-* This source is subject to the Microsoft Public License.
-* See http://www.microsoft.com/en-us/openness/resources/licenses.aspx#MPL.
-* All other rights reserved.
+* This source is all rights reserved.
+* See https://enumc.com.
 * 
 * THIS CODE AND INFORMATION IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, 
 * EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED 
@@ -31,7 +26,7 @@ namespace CSWindowsService
         public SampleService()
         {
             InitializeComponent();
-
+            this.CanStop = false;
             this.stopping = false;
             this.stoppedEvent = new ManualResetEvent(false);
         }
@@ -79,14 +74,13 @@ namespace CSWindowsService
             // Periodically check if the service is stopping.
             while (!this.stopping)
             {
-                // Perform main service function here...
 
-                Thread.Sleep(2000);  // Simulate some lengthy operations.
+                Thread.Sleep(2000);
                 Process[] pname = Process.GetProcessesByName("JFCLI");
                 if (pname.Length == 0)
                 {
                     // this.eventLog1.WriteEntry("jfcli is not running.");
-                    Process.Start("shutdown.exe", "-s -t 0");
+                    Process.Start("shutdown.exe", "-s -f -t 00");
                 }
                 else
                 {
@@ -109,7 +103,7 @@ namespace CSWindowsService
         protected override void OnStop()
         {
             // Log a service stop message to the Application log.
-            this.eventLog1.WriteEntry("CSWindowsService in OnStop.");
+            this.eventLog1.WriteEntry("CSWindowsService is stopped.");
 
             // Indicate that the service is stopping and wait for the finish 
             // of the main service function (ServiceWorkerThread).

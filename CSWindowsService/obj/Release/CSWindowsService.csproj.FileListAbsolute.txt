@@ -1,0 +1,9 @@
+C:\Users\eric\Source\Repos\EWaveManager\Release\CSWindowsService.exe
+C:\Users\eric\Source\Repos\EWaveManager\Release\CSWindowsService.pdb
+C:\Users\eric\Source\Repos\EWaveManager\CSWindowsService\obj\Release\CSWindowsService.SampleService.resources
+C:\Users\eric\Source\Repos\EWaveManager\CSWindowsService\obj\Release\CSWindowsService.ProjectInstaller.resources
+C:\Users\eric\Source\Repos\EWaveManager\CSWindowsService\obj\Release\CSWindowsService.csproj.GenerateResource.cache
+C:\Users\eric\Source\Repos\EWaveManager\CSWindowsService\obj\Release\CSWindowsService.csproj.CoreCompileInputs.cache
+C:\Users\eric\Source\Repos\EWaveManager\CSWindowsService\obj\Release\CSWindowsService.exe
+C:\Users\eric\Source\Repos\EWaveManager\CSWindowsService\obj\Release\CSWindowsService.pdb
+C:\Users\eric\Source\Repos\EWaveManager\CSWindowsService\obj\Release\CSWindowsService.csprojAssemblyReference.cache

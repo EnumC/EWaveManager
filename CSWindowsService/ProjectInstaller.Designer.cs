@@ -42,6 +42,7 @@
             this.serviceInstaller1.Description = "EWave Manager";
             this.serviceInstaller1.DisplayName = "EWave Manager";
             this.serviceInstaller1.ServiceName = "CSWindowsService";
+            this.serviceInstaller1.StartType = System.ServiceProcess.ServiceStartMode.Automatic;
             this.serviceInstaller1.AfterInstall += new System.Configuration.Install.InstallEventHandler(this.serviceInstaller1_AfterInstall);
             // 
             // ProjectInstaller
